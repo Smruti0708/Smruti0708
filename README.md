@@ -37,7 +37,7 @@
 
 ## 📂 Featured Projects  
 
-🔹 <a href="https://github.com/Smruti0708/sales-logistics-dashboard">**[Sales Logistics Dashboard & Freight Trend](#)** </a> | *Power BI, Excel, SQL*  
+🔹 [**[Sales Logistics Dashboard & Freight Trend](#)**] (https://github.com/Smruti0708/sales-logistics-dashboard) | *Power BI, Excel, SQL*  
 Analyzed **10,000+ sales records** to generate insights on sales, freight costs, and shipping performance.  
 
 🔹 **[Inventory Forecasting & Replenishment Simulator](#)** | *Excel, Predictive Modeling*  

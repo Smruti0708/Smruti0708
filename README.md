@@ -48,18 +48,6 @@ Planned a **$150K renovation project** with **60+ tasks**, Gantt Charts, and res
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smruti0708&show_icons=true&theme=tokyonight" alt="Smruti's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smruti0708&theme=tokyonight" alt="Smruti's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smruti0708&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 ## 🏷️ Fun Badges  
 

@@ -43,7 +43,7 @@ Analyzed **10,000+ sales records** to generate insights on sales, freight costs,
 🔹 **[Inventory Forecasting & Replenishment Simulator](#)** | *Excel, Predictive Modeling*  
 Reduced stockouts by **45%** and lowered holding costs by **20%** using demand-based replenishment.  
 
-🔹 **[Residential Construction Project Simulation](#)** | *MS Project*  
+🔹 **[Residential Construction Project Simulation](https://github.com/Smruti0708/Residential-Construction-Simulation)** | *MS Project*  
 Planned a **$150K renovation project** with **60+ tasks**, Gantt Charts, and resource leveling.  
 
 ---

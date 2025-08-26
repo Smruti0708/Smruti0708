@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" title="Power BI"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="45" title="Tableau"/>
-  <img src="https://img.shields.io/badge/Minitab-Data%20Analysis-green?style=for-the-badge"/>
+  <img src="https://img.icons8.com/ios-filled/50/analytics.png" width="45" title="Minitab"/>
   <img src="https://img.icons8.com/color/48/000000/sap.png" width="45" title="SAP MM"/>
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="45" title="Oracle OTM"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" width="45" title="Microsoft Office"/>

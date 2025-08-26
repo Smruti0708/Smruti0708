@@ -25,9 +25,9 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="45" title="Excel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45" title="Tableau"/>
-  <img src="https://img.icons8.com/color/48/000000/minitab.png" width="45" title="Minitab"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="45" title="Tableau"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-data-analysis-data-science-soft-fill-soft-fill-juicy-fish.png" width="45" title="Minitab"/>
   <img src="https://img.icons8.com/color/48/000000/sap.png" width="45" title="SAP MM"/>
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="45" title="Oracle OTM"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" width="45" title="Microsoft Office"/>
